@@ -1,2 +1,0 @@
-# summerglau
-Readme for MyHealth
